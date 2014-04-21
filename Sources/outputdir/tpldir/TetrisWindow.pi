@@ -1,0 +1,12 @@
+#_USE_RECOMPILE
+-We=--template_info_file=outputdir\tpldir\TetrisWindow.ti
+-We=--ii_file=outputdir\tpldir\TetrisWindow.ii
+-We=--no_auto_instantiation
+ 
+-OB=outputdir\TetrisWindow.o
+-I=C:\PROGRA~1\CASIO\CLASSP~2\cp_include
+-cpu=sh3
+-NOLOGO
+-RTTI=OFF
+-NOEX
+TetrisWindow.cpp
